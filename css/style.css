@@ -1,0 +1,27 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    top:0;
+}
+nav {
+    text-align: center;
+    padding: 30px;
+    background-color:#22252f;
+}
+.list{
+    list-style:none;
+    justify-content: space-between;
+}
+nav a{
+    text-decoration: none;
+    padding-right: 30px;
+    color:white;
+    font-size: larger;
+}
+h1{
+    color: darkgoldenrod;
+    text-align: center;
+    margin-top: 7em;
+    font-size: xx-large;
+}
